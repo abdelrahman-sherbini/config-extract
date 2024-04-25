@@ -1,0 +1,31 @@
+import idc
+import idautils
+
+DEC_FUNCTION = 0x4065B7
+ENC_STRING_ADDR = 0x40B930
+BYTE_ARRAY_ADDR = 0x410120
+
+def decrypt_string(idx):
+    if idx >= 0x36F4:
+        return    # Index out of bounds
+    result = ""
+    while True:
+        current_byte = idc.get_wide_byte(ENC_STRING_ADDR + idx) ^ idc.get_wide_byte(BYTE_ARRAY_ADDR + (idx & 0x3F))
+        if current_byte == 0:
+            break
+        result += chr(current_byte)
+        idx += 1
+    return result
+
+def process_decryption_references():
+    decryption_references = idautils.CodeRefsTo(DEC_FUNCTION, 0)
+    for ref in decryption_references:
+        instruction_address = idc.prev_head(ref)
+        operand_type = idc.get_operand_type(instruction_address, 1)
+        if operand_type == idc.o_imm:
+            index = idc.get_operand_value(instruction_address, 1)
+            decrypted_string = decrypt_string(index)
+            idc.set_cmt(instruction_address, decrypted_string, 1)
+
+if __name__ == "__main__":
+    process_decryption_references()
